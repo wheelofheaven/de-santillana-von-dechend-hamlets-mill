@@ -1,7 +1,6 @@
 # Summary
 
 # Hamlet's Mill
-- [Commentary by John Major Jenkins](./commentary_by_john_mayor_jenkins.md)
 - [Preface](./preface.md)
 - [Introduction](./introduction.md)
 - [I. The Chronicler's Tale](./i-the-chroniclers-tale.md)
