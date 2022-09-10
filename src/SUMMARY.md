@@ -32,7 +32,6 @@
 - [Appendices](./appendices.md)
 - [Notes](./notes.md)
 - [Bibliography](./bibliography.md)
-- [Index](./index.md)
 ---
 
 [Credentials]()
