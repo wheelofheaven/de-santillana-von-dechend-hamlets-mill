@@ -1,1 +1,0 @@
-# XXIII. Gilgamesh and Prometheus

@@ -1,1 +1,0 @@
-# VI. Amlodhi's Quern
